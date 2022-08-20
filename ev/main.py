@@ -96,11 +96,11 @@ def on_press(key):
 		press("z", 3.5)
 
 	elif key == Key.end:
-		hp_ev()
+		# hp_ev()
 		# atk_ev()
 		# def_ev()
 		# satk_ev()
-		# sdef_ev()
+		sdef_ev()
 		# spd_ev()
 
 	elif key == Key.home:
